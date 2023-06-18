@@ -5,9 +5,7 @@
 Original file is located at
     https://colab.research.google.com/drive/17jgWNDJkEfePnCw77zL91jLvUATjvrIL
 
-# *Introduction:*
 
----
 
 Humans communicate using facial expressions as well as other body language and verbal cues. Researchers are using deep learning approaches in artificial intelligence research as a way to help make decisions. They need to study people in order to predict how they'll respond or know what they're feeling. This study proposes the development of a system that predicts and classifies facial emotions by using the Convolution Neural Network algorithm, among other features.
 
