@@ -2,7 +2,7 @@
 "Facial emotion detection mini_proj.ipynb
 
 
-Original file is located a
+Original file is located at
     https://colab.research.google.com/drive/17jgWNDJkEfePnCw77zL91jLvUATjvrIL
 
 
