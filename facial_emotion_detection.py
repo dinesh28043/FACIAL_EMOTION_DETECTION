@@ -14,7 +14,6 @@ Data preprocessing, facial feature extraction, and facial emotion classification
 
 <hr>
 
-####For that you can go to kaggle.com-> your profile-> Account-> Create New API Token
 Then upload the kaggle.json file in google collab and then run the below commands
 """
 
