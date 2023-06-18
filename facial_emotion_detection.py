@@ -11,7 +11,7 @@ Humans communicate using facial expressions as well as other body language and v
 
 Data preprocessing, facial feature extraction, and facial emotion classification are the three key steps in this notebook. Facial expressions were predicted with 62.66% accuracy using the Convolutional Neural Network (CNN). This algorithm was evaluated on a database from FER2013 database, which has 35887 48x48 grayscale images representing each of the emotions.
 
-#Setting up kaggle api for getting the datset
+
 <hr>
 
 ####For that you can go to kaggle.com-> your profile-> Account-> Create New API Token
